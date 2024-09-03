@@ -5,7 +5,7 @@ A random sentence generator. The generator may not make perfect sense, but then 
 ## How to launch
 Click [here](https://freddelaszlo.github.io/mixedmessages/) to open in your browser (use CTRL + click on Windows or CMD + click on Mac to open in a new tab).
 
-Alternatively you download the three source files into the same folder and open index.html.
+Alternatively you can download the three source files into the same folder and open index.html.
 
 ## How to test the JavaScript
 Either:
