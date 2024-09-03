@@ -3,7 +3,7 @@
 A random sentence generator. The generator may not make perfect sense, but then it was meant to be silly! :joy:
 
 ## How to launch
-Click [here](https://freddelaszlo.github.io/mixedmessages/) to open in your browser.
+Click <a href="https://freddelaszlo.github.io/mixedmessages/" target="_blank">here</a> to open in your browser.
 
 Alternatively you download the three source files into the same folder and open index.html.
 
