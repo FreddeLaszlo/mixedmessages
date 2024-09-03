@@ -3,7 +3,9 @@
 A random sentence generator. The generator may not make perfect sense, but then it was meant to be silly!
 
 ## How to launch
-Download the three files to the same folder on ytour system or web server. Open index.html in a browser or click [here](https://freddelaszlo.github.io/mixedmessages/).
+Click [here](https://freddelaszlo.github.io/mixedmessages/) to open in your browser.
+
+Alternatively you download the three source files into the same folder and open index.html.
 
 ## How to test the JavaScript
 Either:
