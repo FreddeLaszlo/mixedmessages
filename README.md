@@ -1,6 +1,6 @@
 # Mixed Message
 
-A random sentence generator. The generator may not make perfect sense, but then it was meant to be silly!
+A random sentence generator. The generator may not make perfect sense, but then it was meant to be silly! :joy:
 
 ## How to launch
 Click [here](https://freddelaszlo.github.io/mixedmessages/) to open in your browser.
