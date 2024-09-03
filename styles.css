@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    background: white;
+    background: linear-gradient(to bottom, white, gray);
+    text-align: center;
+
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 1.5rem;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    padding: 0.2rem 0.7rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+button:hover {
+    padding: 0.5rem 1.1rem;
+    transition: all 0.3s;
+}
+
+blockquote {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.5em;
+}
+
+blockquote:before {
+  content: open-quote;
+}
+
+blockquote:after {
+  content: close-quote;
+}
+
